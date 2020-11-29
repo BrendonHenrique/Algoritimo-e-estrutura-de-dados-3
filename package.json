@@ -1,0 +1,15 @@
+{
+  "name": "travelling-salesman-problem-js",
+  "version": "1.0.0",
+  "description": "Tarefa: Algoritmo Aproximativo para TSP",
+  "main": "app.js",
+  "license": "MIT",
+  "author": "Brendon henrique santos silva (BCC-UFPEL)",
+  "dependencies": {
+    "eol": "^0.9.1",
+    "inquirer": "^7.3.3"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  }
+}
