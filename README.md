@@ -20,7 +20,7 @@ Para rodar o rojeto você deve instalar o NodeJS
 
 ### Como funciona
 
-As instâncias do caixeiro viajante estão armazenadas na pasta /data
+As instâncias do caixeiro viajante estão armazenadas na pasta /data,
 Serão precisos alguns passos para executar.
 
 1 - Instalar dependências: Dentro da pasta do projeto execute no terminal
